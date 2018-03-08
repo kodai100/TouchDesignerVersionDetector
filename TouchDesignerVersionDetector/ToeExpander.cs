@@ -122,7 +122,7 @@ namespace Kodai
 
             p.WaitForExit();
 
-            MyConsole.StatusWriteLine("Expand process finished.", true);
+            MyConsole.StatusWriteLine("Successfully detected.", true);
 
             return true;
         }

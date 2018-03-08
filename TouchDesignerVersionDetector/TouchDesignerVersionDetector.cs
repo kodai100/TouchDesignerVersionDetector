@@ -33,10 +33,10 @@ namespace Kodai
 
                 if (version != null)
                 {
-                    Console.Write("\nThis .toe version is : ");
+                    Console.Write("\n.toe version : ");
                     MyConsole.ColoredWriteLine(version, ConsoleColor.Cyan);
 
-                    Console.Write("\nEnter to end app.");
+                    Console.Write("\nPress enter to end app.");
                     Console.ReadLine();
                 }
 

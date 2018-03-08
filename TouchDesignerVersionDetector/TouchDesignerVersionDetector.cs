@@ -45,6 +45,8 @@ namespace Kodai
                 VersionDetector detector = new VersionDetector(toe_path);
 
                 string version = detector.Detect();
+                detector.DeleteGarbageDirectories();
+
                 if (version != null)
                 {
                     Console.Write("\nThis .toe version is : ");

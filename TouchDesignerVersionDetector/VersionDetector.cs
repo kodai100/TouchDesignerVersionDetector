@@ -46,16 +46,13 @@ namespace Kodai
 
                             if (values[0].Equals("build"))
                             {
-                                
-                                DeleteGarbageDirectories();
 
                                 return values[1];
                             }
 
                         }
-                        
-                    }
 
+                    }
 
                 }
             }

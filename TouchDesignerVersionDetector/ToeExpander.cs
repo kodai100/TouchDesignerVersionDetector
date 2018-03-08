@@ -34,7 +34,7 @@ namespace Kodai
 
             p.WaitForExit();
 
-            Console.WriteLine("Process finished.");
+            Console.WriteLine("Expand process finished.");
 
             return true;
         }

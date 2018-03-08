@@ -1,6 +1,6 @@
 # TouchDesigner Version Detector
 
-[!thumbnail](https://github.com/kodai100/TouchDesignerVersionDetector/blob/master/img/tumbnail.png)
+![thumbnail](https://github.com/kodai100/TouchDesignerVersionDetector/blob/master/img/tumbnail.png)
 
 # How to use
 
